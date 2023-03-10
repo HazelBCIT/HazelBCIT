@@ -1,6 +1,6 @@
 [![MasterHead](https://www.hazelwang.ca/portfolio/wp-content/uploads/2023/03/banner-bg-1scaled.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hazel Wang</h1>
-<h3 align="center">A passionate UI/UX designer based in Vancouver</h3>
+<h3 align="center">A passionate UI/UX & Web Designer based in Vancouver</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://www.hazelwang.ca/portfolio/wp-content/uploads/2023/03/68658-creative-3d-visual-animation-website-development.gif">
 
