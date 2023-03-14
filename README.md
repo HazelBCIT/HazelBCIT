@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazelbcit&label=Profile%20views&color=0e75b6&style=flat" alt="hazelbcit" /> </p>
 
 
-- 🔭 I’m currently working on **Scope Media**
+- 🔭 I’m currently working on **Miood Diary** , a blog diary web app.
 
 - 👨‍💻 All of my projects are available at [www.hazelwang.ca/portfolio](www.hazelwang.ca/portfolio)
 
