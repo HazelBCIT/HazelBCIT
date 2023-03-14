@@ -1,7 +1,8 @@
 [![MasterHead](https://www.hazelwang.ca/portfolio/wp-content/uploads/2023/03/banner-bg-1scaled.png)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Hazel Wang</h1>
-<h3 align="center">A passionate UI/UX & Web Designer based in Vancouver</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif"> -->
+
+<h3 align="center">A passionate UI/UX & Web Designer based in Vancouver</h3> 
 <img align="right" alt="Coding" width="400" src="https://www.hazelwang.ca/portfolio/wp-content/uploads/2023/03/68658-creative-3d-visual-animation-website-development.gif">
 
 
@@ -16,9 +17,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yingzi-wang-2629901b8/](https://www.linkedin.com/in/yingzi-wang-2629901b8/)
 
-<h3 align="left"> 👩🏻‍🤝‍👨🏽 Connect with me:</h3>
+<h3 align="left"> <img src="https://www.hazelwang.ca/portfolio/wp-content/uploads/2023/03/94154-social-media-marketing-smm-button-social-streaming-share-button-social-button.gif" width ="40"> Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yingziwang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingziwang" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@hazelwang3340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yingziwang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 🔨 Languages and Tools:</h3>
@@ -44,4 +46,8 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HazelBCIT&layout=compact&theme=radical' height='150"'>
 </div>
 <br>
+
+
+
+
 
